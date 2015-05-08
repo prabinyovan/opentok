@@ -81,3 +81,4 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   $urlRouterProvider.otherwise('/tab/dash');
 
 });
+//https://github.com/songz/cordova-plugin-opentok
