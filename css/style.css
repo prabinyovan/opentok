@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+/* Empty. Add your own CSS if you like */
+#publisher, .OT_mirrored OT_root OT_publisher OT_fit-mode-cover {
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    position: relative;
+    clear: both;
+    z-index: 0;
+}
+#subscriber {
+    width: 300px;
+    height: 300px;
+    border: 2px solid Red;
+    top: 200px;
+    position: absolute;
+    z-index: 300;
+}
